@@ -40,7 +40,7 @@ Follow these steps to install and set up the project directly from the GitHub re
    - Navigate to the directory where you want to install the project.
    - Run the following command to clone the GitHub repository:
      ```
-     git clone https://github.com/revtiraman81/End-to-End-Movie-Recommendation-System.git
+     git clone https://github.com/revtiraman81/Movie-Recommendation-System.git
      ```
 
 2. **Create a Virtual Environment** (Optional but recommended)
